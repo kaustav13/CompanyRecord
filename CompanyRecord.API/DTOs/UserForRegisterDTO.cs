@@ -9,7 +9,7 @@ namespace CompanyRecord.API.DTOs
         public string Username { get; set; }
 
         [Required]
-        [StringLength(8, MinimumLength=4,ErrorMessage="Password must be between 6 to 8 characters")]
+        [StringLength(9, MinimumLength=6,ErrorMessage="Password must be between 6 to 8 characters")]
         public string Password {get;set;}
     }
 }

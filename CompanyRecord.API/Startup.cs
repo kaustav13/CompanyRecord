@@ -60,16 +60,16 @@ namespace CompanyRecord.API
 
             app.UseAuthentication();
 
-            app.UseMvc();
+            //app.UseMvc();
 
-            // app.UseRouting();
+            app.UseRouting();
 
-            // app.UseAuthorization();
+            app.UseAuthorization();
 
-            // app.UseEndpoints(endpoints =>
-            // {
-            //     endpoints.MapControllers();
-            // });
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
         }
     }
 }
