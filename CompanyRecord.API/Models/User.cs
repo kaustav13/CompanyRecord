@@ -1,4 +1,6 @@
 using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CompanyRecord.API.Models
 {
@@ -11,7 +13,8 @@ namespace CompanyRecord.API.Models
         public string Role { get; set; }
         public DateTime CreatedOn { get; set; }
         public DateTime UpdatedOn { get; set; }
-
-        
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public ICollection<Company> Companies {get;set;}
     }
 }

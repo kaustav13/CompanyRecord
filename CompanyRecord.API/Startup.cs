@@ -35,9 +35,12 @@ namespace CompanyRecord.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<DataContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson(opt =>{
+                opt.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+            });
             services.AddCors();
             services.AddScoped<IAuthRepository, AuthRepository>();
+            services.AddScoped<IBusinessRepository, BusinessRepository>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options => {
                     options.TokenValidationParameters = new TokenValidationParameters
@@ -46,7 +49,8 @@ namespace CompanyRecord.API
                         IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes(
                             Configuration.GetSection("AppSettings:Token").Value
                         )),
-                        ValidateIssuer = false
+                        ValidateIssuer = false,
+                        ValidateAudience = false
                     };
                 });
         }

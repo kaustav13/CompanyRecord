@@ -1,0 +1,1040 @@
+[
+  {
+    "Username": "myrtlekennedy@centuria.com",
+    "Password": "password",
+    "FirstName": "Angel",
+    "LastName": "Perez",
+    "Role": "User",
+    "CreatedOn": "2020-05-23",
+    "UpdatedOn": "2020-05-23",
+    "Companies": [
+      {
+        "Name": "aute",
+        "Description": "Culpa voluptate sit et cupidatat ex sit ad non sunt qui.",
+        "Tags": "amet, eu",
+        "Expenses": [
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Adipisicing proident pariatur velit qui aliqua amet commodo magna voluptate. Commodo excepteur occaecat occaecat ut reprehenderit nostrud esse officia incididunt magna enim dolor commodo. Laborum esse culpa qui reprehenderit duis mollit.\r\n",
+            "Amount": 3079.53,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-01-28",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Officia excepteur ut enim proident aliqua aliquip. Amet mollit nisi voluptate cillum ex consequat esse ea proident dolore. Ullamco sit nostrud minim mollit. Incididunt officia voluptate enim do eiusmod exercitation enim ex voluptate Lorem aliqua sunt nulla.\r\n",
+            "Amount": 2015.21,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-01-04",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Cillum eu cupidatat adipisicing est reprehenderit excepteur id. Dolor ipsum adipisicing mollit sunt ea reprehenderit proident eu. Dolore deserunt ullamco consectetur excepteur culpa sit magna labore minim voluptate. Deserunt aliqua sit labore officia occaecat mollit. Enim minim ea esse aliquip ut minim labore minim amet dolore officia consectetur id.\r\n",
+            "Amount": 3093.81,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-02-09",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Laboris minim ex minim cillum consequat et ea officia irure enim magna. Officia commodo laborum nisi culpa ut sunt excepteur laborum qui nulla. Cupidatat officia ullamco aliquip sit et qui do aliqua qui. Quis non duis nisi laborum adipisicing consectetur anim et anim eu nostrud ullamco.\r\n",
+            "Amount": 1599.95,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-22",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Ullamco id laborum magna qui mollit cupidatat elit elit veniam officia quis voluptate laboris est. Officia commodo in eu culpa aliqua anim aliquip id. Deserunt commodo deserunt culpa magna et. Qui eiusmod ullamco ea qui velit consequat incididunt consequat velit amet. Pariatur ut labore laboris nisi nulla minim sit minim dolor non esse veniam voluptate. Irure labore deserunt eu laborum laborum in et ullamco consequat tempor dolore laboris. Fugiat id enim ullamco pariatur ipsum deserunt do id mollit voluptate quis qui eiusmod.\r\n",
+            "Amount": 3763.43,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-06-16",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "ut",
+        "Description": "Eiusmod officia labore duis ea laborum.",
+        "Tags": "officia, labore",
+        "Expenses": [
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Mollit exercitation voluptate non culpa nostrud magna ex fugiat occaecat aliquip. Commodo reprehenderit minim laborum consectetur veniam dolor sint commodo consequat. Consequat veniam exercitation labore do non officia laboris incididunt cillum cupidatat. Ad voluptate aliqua eu mollit. Dolor sunt anim laboris ipsum do culpa. In elit exercitation cupidatat commodo.\r\n",
+            "Amount": 2678.9,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-16",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Dolore occaecat excepteur mollit incididunt officia. Velit irure dolor elit enim esse labore dolore. Cillum qui est nisi nostrud do excepteur aute. Aliqua anim ad fugiat pariatur commodo est labore enim pariatur ex. Velit aliqua consequat laboris excepteur aliqua aliqua id enim nostrud et eu do.\r\n",
+            "Amount": 2433.44,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-04",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Esse pariatur labore mollit quis ullamco quis occaecat ut. Velit culpa excepteur adipisicing aliqua aute est ipsum deserunt ad incididunt aliquip ullamco dolor minim. Duis eiusmod non qui irure non ea laborum in nisi cupidatat do eu.\r\n",
+            "Amount": 3821.95,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-04-07",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Lorem irure sit cupidatat excepteur eu officia in ad adipisicing. Ea est quis irure ut sint consequat anim. Irure irure sunt id nulla nulla Lorem ipsum id reprehenderit irure fugiat. Pariatur laborum nisi anim Lorem ut proident dolore ea enim est mollit tempor. Proident cillum Lorem aliquip do est nisi amet adipisicing sint. Nostrud ex commodo nostrud pariatur nisi eiusmod minim commodo. Proident aliquip eiusmod esse ut id quis exercitation occaecat amet non enim mollit laborum ad.\r\n",
+            "Amount": 3404.38,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-06-26",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Duis id ea deserunt tempor proident. Sunt magna amet magna occaecat magna ad excepteur ea consequat exercitation adipisicing. Consequat eiusmod sit aute incididunt enim ad voluptate nostrud eu consequat. In reprehenderit tempor magna enim. Ad sint ad est labore pariatur proident eiusmod ut cupidatat mollit mollit quis nulla. Excepteur commodo enim ad in magna et.\r\n",
+            "Amount": 3871.03,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-03-01",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "elit",
+        "Description": "Exercitation veniam mollit ex ipsum mollit incididunt laboris.",
+        "Tags": "voluptate, cupidatat",
+        "Expenses": [
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Eu velit ut sint irure laboris eu. Fugiat reprehenderit eiusmod aliquip laborum fugiat sit ullamco quis eiusmod dolor qui. Irure ipsum veniam et proident voluptate qui. Labore qui elit reprehenderit consectetur tempor fugiat. Dolor quis sint commodo enim officia proident ad exercitation sunt amet. Eiusmod in eu mollit Lorem exercitation aliquip eu. Duis fugiat Lorem id aliqua.\r\n",
+            "Amount": 1098.55,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-01-19",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Enim consectetur exercitation mollit consequat occaecat consequat. Qui voluptate dolore cillum elit mollit. Enim ullamco labore laborum velit nulla pariatur ex ad reprehenderit adipisicing sit.\r\n",
+            "Amount": 2991.58,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-06-07",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Excepteur consequat ullamco eu eiusmod laborum. Aute incididunt incididunt fugiat est enim mollit ut et. Dolor duis enim Lorem enim. Ut consequat ex magna nostrud nostrud proident incididunt minim do irure. Sunt sunt qui proident dolor irure culpa nisi esse incididunt nulla mollit ut enim. Velit occaecat est proident ex incididunt laboris duis esse. Nisi elit esse officia ea sint voluptate cupidatat veniam sunt enim id cillum in ullamco.\r\n",
+            "Amount": 3921.31,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-13",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Adipisicing est laboris quis esse ex. Quis in non aute quis. Aliqua ex dolore officia reprehenderit nulla duis exercitation. Fugiat eu cillum deserunt mollit Lorem duis sit nostrud. Veniam deserunt adipisicing ea dolor dolore fugiat mollit commodo qui duis.\r\n",
+            "Amount": 1414.55,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-26",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Do do ut duis culpa pariatur enim consectetur incididunt ex anim in. Laborum proident cillum dolore ullamco irure. Non cupidatat amet proident officia ad laboris cillum elit sit culpa nisi non ex.\r\n",
+            "Amount": 3980.2,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-04-17",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      }
+    ]
+  },
+  {
+    "Username": "angelperez@centuria.com",
+    "Password": "password",
+    "FirstName": "Dionne",
+    "LastName": "Warren",
+    "Role": "User",
+    "CreatedOn": "2020-05-23",
+    "UpdatedOn": "2020-05-23",
+    "Companies": [
+      {
+        "Name": "enim",
+        "Description": "Excepteur voluptate dolore sint eu dolor aliqua.",
+        "Tags": "sint, id",
+        "Expenses": [
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Cillum est occaecat enim nostrud. Tempor voluptate amet sint nisi anim consectetur deserunt sunt minim exercitation consequat sint excepteur. In est aliqua nisi laborum ut nostrud.\r\n",
+            "Amount": 2552.64,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-02-07",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Voluptate aute minim ad velit sit excepteur proident elit in magna velit. Deserunt aliqua nisi ipsum duis nulla non voluptate. Ipsum velit consequat esse officia consequat nulla excepteur est laborum anim. Elit exercitation dolore nisi labore.\r\n",
+            "Amount": 2009.83,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-02-16",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Elit ipsum voluptate cupidatat pariatur fugiat ipsum exercitation Lorem minim consequat anim. Dolore dolor culpa magna sint nisi reprehenderit est Lorem velit. Magna ipsum ut enim et occaecat laborum do laborum irure dolor irure eiusmod eu. Eiusmod laborum dolore eiusmod mollit duis pariatur qui labore mollit quis. Tempor ea ad quis nulla. Pariatur minim dolor quis culpa ipsum fugiat fugiat excepteur officia consequat anim minim.\r\n",
+            "Amount": 2025.72,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-01-05",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Dolore irure laboris aute sint deserunt nisi duis. Ut ad veniam nulla irure nisi ea est adipisicing elit elit. Laborum nisi fugiat et id sunt ut sunt nulla sint ut commodo pariatur deserunt. Amet ex voluptate do sint laboris reprehenderit consectetur laboris deserunt anim nisi. Nostrud elit ex qui elit in elit aute et ut exercitation incididunt sit ut ullamco.\r\n",
+            "Amount": 3319.86,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-06-03",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Non deserunt enim mollit pariatur amet irure voluptate magna culpa. Cupidatat id sint proident culpa eu nisi nulla elit magna. Aliqua consectetur excepteur adipisicing deserunt incididunt. Et laboris ullamco mollit nisi. Mollit anim deserunt id ad incididunt exercitation ad non. Cupidatat veniam magna ex aliquip eu.\r\n",
+            "Amount": 3009.99,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-02-12",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "non",
+        "Description": "Laboris ut proident est qui velit aute nostrud eu incididunt cillum in ullamco nisi.",
+        "Tags": "dolore, magna",
+        "Expenses": [
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Ipsum et aliquip exercitation do tempor proident id. Deserunt exercitation labore id elit. Commodo amet est veniam nulla. Fugiat magna reprehenderit nostrud labore et et minim non duis.\r\n",
+            "Amount": 3119.54,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-18",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Sunt magna ea amet pariatur elit. Culpa tempor minim sint eiusmod tempor sint tempor. Laborum velit magna magna eiusmod culpa veniam do id veniam officia ex eu. Anim in tempor proident reprehenderit sunt reprehenderit ut in ut nulla ad excepteur occaecat.\r\n",
+            "Amount": 2470.22,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-03",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Excepteur ea eu proident aliquip magna pariatur sunt anim. Exercitation cupidatat incididunt non id consectetur labore in. Sint aliqua ut quis adipisicing commodo aute esse exercitation duis enim. Culpa aliqua duis est deserunt veniam elit cillum anim mollit aliqua anim excepteur.\r\n",
+            "Amount": 3013,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-02-20",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Do tempor enim veniam irure ut pariatur. Eu eu elit laborum officia occaecat mollit qui magna minim adipisicing sint aute ex consequat. In deserunt pariatur labore laboris eiusmod ex irure sunt commodo reprehenderit. Elit ut deserunt ipsum do ex nostrud eu elit elit. Amet non sit adipisicing nostrud adipisicing proident ad mollit. Esse aliqua eiusmod aute elit in. Aute aliqua in nisi id Lorem proident tempor aute cupidatat consequat.\r\n",
+            "Amount": 2404.93,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-06-07",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Excepteur ut ad commodo et labore et. Veniam commodo magna labore nulla nisi aliqua occaecat do dolore veniam dolor est nisi reprehenderit. Exercitation ut aliquip eiusmod cupidatat elit in minim. Mollit anim esse ut reprehenderit id nostrud sit commodo exercitation mollit. Lorem occaecat eiusmod anim duis Lorem et cillum tempor. Officia est do cupidatat dolor qui quis reprehenderit mollit est enim incididunt non laboris adipisicing. In enim nisi dolore laborum ullamco consequat enim in.\r\n",
+            "Amount": 1413.86,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-06",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "ad",
+        "Description": "Exercitation et laborum duis ex voluptate.",
+        "Tags": "sint, qui",
+        "Expenses": [
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Deserunt et tempor ipsum incididunt ad pariatur nisi exercitation. Velit officia Lorem culpa et ipsum duis. Et adipisicing commodo minim Lorem culpa et aliquip ullamco ullamco velit. Dolore consectetur sit consectetur nulla. Aliquip sunt do cillum reprehenderit sit excepteur id eu quis reprehenderit esse. Eiusmod ea dolor ullamco ullamco. Deserunt ad labore fugiat mollit reprehenderit sunt non exercitation.\r\n",
+            "Amount": 1859.41,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-03-23",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Ad adipisicing in laborum duis reprehenderit cupidatat quis amet aliquip sit id veniam et quis. Dolor occaecat consectetur occaecat officia commodo anim incididunt ipsum magna sunt eiusmod deserunt sit. Reprehenderit laboris velit veniam qui consectetur non. Eiusmod ea tempor ullamco ea deserunt labore dolore mollit qui tempor eiusmod dolore. Ipsum Lorem nulla amet pariatur fugiat cupidatat consectetur pariatur ad cillum deserunt aliquip.\r\n",
+            "Amount": 1938.29,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-25",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Irure laboris quis tempor est sit duis pariatur nisi. Pariatur non cupidatat ut exercitation dolor aliqua enim pariatur. Exercitation ex amet voluptate cupidatat deserunt veniam reprehenderit anim do ipsum reprehenderit tempor. Officia velit eu tempor voluptate.\r\n",
+            "Amount": 3734.29,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-04-22",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Voluptate enim tempor id ullamco Lorem fugiat exercitation consectetur voluptate quis pariatur adipisicing eu officia. Consectetur enim occaecat eu veniam voluptate et ea irure tempor. Aliqua incididunt nisi tempor sunt aliqua sit incididunt aliqua veniam sint aute ea.\r\n",
+            "Amount": 1782.6,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-06-12",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Ea tempor Lorem minim qui ut nostrud eu ut minim fugiat et. Qui enim ea in dolore. Anim aute exercitation labore qui Lorem. Nostrud officia id ad et. Magna non sint incididunt veniam id id ad duis est labore eu nisi elit. Deserunt proident mollit ullamco nulla velit culpa culpa reprehenderit commodo cupidatat esse nulla deserunt. Qui et ea anim qui.\r\n",
+            "Amount": 3219.31,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-02-13",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      }
+    ]
+  },
+  {
+    "Username": "dionnewarren@centuria.com",
+    "Password": "password",
+    "FirstName": "Figueroa",
+    "LastName": "Mclean",
+    "Role": "User",
+    "CreatedOn": "2020-05-23",
+    "UpdatedOn": "2020-05-23",
+    "Companies": [
+      {
+        "Name": "ea",
+        "Description": "Ea do irure aute culpa enim aliquip ut.",
+        "Tags": "anim, incididunt",
+        "Expenses": [
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Incididunt cupidatat anim non reprehenderit eiusmod laborum nostrud. Occaecat labore anim nisi ut dolore. Sint deserunt deserunt duis do est minim officia nulla.\r\n",
+            "Amount": 2438.29,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-03-08",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Aliqua mollit tempor cupidatat et anim est fugiat amet. Dolor officia non voluptate deserunt elit. Reprehenderit fugiat ullamco mollit commodo mollit.\r\n",
+            "Amount": 1962.05,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-09",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Laboris nulla esse adipisicing consectetur exercitation dolore tempor cupidatat consequat eu nulla cillum. Pariatur ipsum laborum tempor non aute culpa sunt adipisicing deserunt mollit esse. Incididunt tempor amet consequat excepteur nisi ex eu eu eiusmod mollit veniam veniam.\r\n",
+            "Amount": 1821.39,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-05-24",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Irure ipsum ipsum ullamco adipisicing ullamco dolore culpa eiusmod dolor. Lorem esse aliqua magna non occaecat sunt cupidatat nisi ullamco cillum occaecat. Do exercitation officia est laborum nisi.\r\n",
+            "Amount": 3377.97,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-01-08",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Ex officia veniam laboris esse ad qui tempor deserunt irure eu sunt aliqua. Id deserunt cupidatat cillum nostrud tempor dolore fugiat et. Minim ex ad cillum dolor veniam. Minim ut veniam commodo irure occaecat eiusmod sint voluptate ipsum exercitation sunt.\r\n",
+            "Amount": 1672.87,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-01-06",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "amet",
+        "Description": "Irure non ea ad deserunt eu officia.",
+        "Tags": "voluptate, ullamco",
+        "Expenses": [
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Elit nostrud est esse culpa elit cillum. Do est quis proident veniam Lorem laboris. Fugiat sunt consequat deserunt quis occaecat dolor duis voluptate nulla consequat. Velit duis magna proident ullamco est culpa. Nisi fugiat duis proident laboris duis deserunt qui consectetur aute laboris laborum aliqua.\r\n",
+            "Amount": 1688.48,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-15",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Lorem laborum nostrud ut officia do cupidatat aute deserunt proident cillum ad sint fugiat. Occaecat mollit officia nostrud id nisi officia aute ullamco id pariatur adipisicing sint nulla commodo. Sunt laboris eu sit laboris ipsum sunt voluptate dolor eu dolor eiusmod do. Culpa enim nulla magna voluptate. Dolore sunt dolore consequat adipisicing labore excepteur voluptate in incididunt velit anim. Esse pariatur est qui sit ut quis officia dolore cupidatat incididunt tempor laboris. Pariatur occaecat velit proident ut commodo amet reprehenderit consequat.\r\n",
+            "Amount": 1035.13,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-06-19",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Minim id commodo id anim sit sunt occaecat amet cupidatat adipisicing irure. Aliqua velit voluptate qui sunt culpa magna quis et officia pariatur fugiat aliqua commodo enim. Elit proident et pariatur magna anim nisi velit duis deserunt enim do mollit elit laborum. Adipisicing tempor pariatur est ut ad in ad magna. Proident proident elit proident sunt qui laborum amet. Sunt non veniam aute ut exercitation. Consequat excepteur deserunt labore sint proident commodo minim nostrud dolore amet sit veniam pariatur.\r\n",
+            "Amount": 2810.71,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-04-14",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Tempor excepteur minim ipsum labore quis incididunt reprehenderit. Irure ex commodo Lorem do exercitation nulla. Mollit esse ex et consequat elit. Voluptate irure tempor proident nostrud qui esse exercitation. Proident voluptate nulla cupidatat reprehenderit Lorem ea dolore enim adipisicing officia minim. Esse non culpa dolor cillum in pariatur esse amet eiusmod occaecat ex ex culpa labore. Cillum exercitation dolor laboris ea amet pariatur pariatur nisi occaecat esse.\r\n",
+            "Amount": 1600.7,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-03-11",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Cupidatat amet reprehenderit nisi quis. In nisi culpa in irure ea commodo aute nostrud eu sint. Aliquip esse fugiat sunt amet ex officia cillum in laboris aliqua dolore. Nostrud sint in non consequat et non dolor sunt sunt aliqua qui occaecat. Excepteur sit quis consectetur dolor ut eu esse nulla enim ex irure Lorem do. Minim amet mollit anim non tempor cillum minim adipisicing culpa. Dolor consectetur sint proident eiusmod laborum Lorem nostrud duis.\r\n",
+            "Amount": 1931.5,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-18",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "fugiat",
+        "Description": "Minim in culpa exercitation ea non est anim elit minim minim eu sunt.",
+        "Tags": "ea, occaecat",
+        "Expenses": [
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Irure officia ullamco aute sint cillum dolore deserunt aliquip enim. Est duis cupidatat esse non irure elit enim. Id sit Lorem ad ea est mollit est sit est. Sunt id proident anim officia ex nisi consequat ad commodo id dolore.\r\n",
+            "Amount": 3997.62,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-05-12",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Irure eiusmod nulla adipisicing culpa irure ullamco. Do consequat incididunt ullamco ex velit incididunt quis amet quis mollit incididunt cupidatat. Ea aliquip id voluptate ipsum exercitation minim ipsum Lorem nulla reprehenderit nulla incididunt adipisicing. Cupidatat dolore laboris ea quis cupidatat. Sit sit cupidatat proident aute sit nostrud non ad.\r\n",
+            "Amount": 3165.76,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-01-17",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Deserunt dolor veniam Lorem eiusmod cupidatat voluptate minim id culpa nulla non eiusmod tempor. Duis cupidatat irure sint do cillum culpa et eiusmod mollit ea. Adipisicing in Lorem qui consectetur consectetur elit esse minim anim nisi cupidatat commodo ad. Cupidatat consequat adipisicing do sunt consectetur. Proident commodo adipisicing elit Lorem adipisicing.\r\n",
+            "Amount": 1430.01,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-27",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Ullamco culpa enim adipisicing excepteur aliqua quis officia ullamco id nisi dolor est. Qui veniam eu exercitation deserunt esse sint et ut in esse nisi aute anim. Deserunt veniam ullamco do sit aute. Sunt aute anim consequat ea labore cillum qui aliquip ullamco irure aute incididunt proident sint. In dolor deserunt mollit ut ex ex ad officia officia. Do laboris consectetur ullamco magna duis in sit magna eiusmod culpa cupidatat aliqua pariatur.\r\n",
+            "Amount": 2212.49,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-02-09",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Esse commodo nulla aliqua deserunt. Reprehenderit commodo esse do in laboris laboris sit mollit. Excepteur do magna anim voluptate commodo id ea. Cupidatat mollit cillum dolore eu duis mollit dolore.\r\n",
+            "Amount": 1322.86,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-03-17",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      }
+    ]
+  },
+  {
+    "Username": "figueroamclean@centuria.com",
+    "Password": "password",
+    "FirstName": "Kirkland",
+    "LastName": "Fuller",
+    "Role": "User",
+    "CreatedOn": "2020-05-23",
+    "UpdatedOn": "2020-05-23",
+    "Companies": [
+      {
+        "Name": "minim",
+        "Description": "Dolor voluptate ut proident ea eiusmod ipsum fugiat veniam anim anim.",
+        "Tags": "occaecat, est",
+        "Expenses": [
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Velit ipsum do non dolor nulla. Exercitation duis ullamco consequat aliqua sunt est velit velit. Est ullamco id excepteur anim. Velit exercitation velit labore voluptate amet do elit magna voluptate elit aliqua. Elit in duis mollit quis excepteur laborum est amet velit elit labore.\r\n",
+            "Amount": 1213.48,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-27",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Ipsum sunt mollit Lorem dolore velit est ut nisi esse occaecat. Proident in aliquip proident non occaecat cupidatat aliquip proident. Nulla pariatur in anim sint aute ea. Anim anim veniam deserunt cupidatat. Duis consectetur est exercitation mollit voluptate ut non proident aute deserunt magna laboris. Ullamco consequat qui labore commodo. In ullamco consequat occaecat officia.\r\n",
+            "Amount": 2218.91,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-03-11",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Fugiat eiusmod culpa aliquip enim nulla. Exercitation minim ad commodo adipisicing consequat ipsum laboris laborum veniam consectetur aliquip. Fugiat ad irure sint proident veniam reprehenderit aute fugiat qui velit.\r\n",
+            "Amount": 1809.13,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-02-21",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Laborum eiusmod amet mollit aliquip irure qui enim. Velit pariatur mollit deserunt velit. Laborum aliquip nulla ex cupidatat et. Pariatur fugiat in elit in consequat sint aliquip in cillum qui id duis adipisicing. Ad officia elit anim non cupidatat officia mollit in consectetur anim voluptate. Ea et sunt laborum enim dolor sit enim veniam amet occaecat sit. Elit consequat Lorem nostrud ipsum minim eiusmod dolore eu.\r\n",
+            "Amount": 2520.42,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-06-27",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Magna magna Lorem elit exercitation reprehenderit in mollit dolor sint cupidatat exercitation laborum. Laborum duis voluptate adipisicing eu culpa. Exercitation adipisicing tempor laboris amet quis occaecat velit ea velit id labore est aliqua. Amet aliqua nostrud amet mollit ad cillum magna nulla quis dolor laborum voluptate. Deserunt labore ea ad ad irure non minim ullamco quis ex anim ullamco commodo do.\r\n",
+            "Amount": 3283.78,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-03-19",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "sit",
+        "Description": "Sint consequat do nisi commodo officia mollit.",
+        "Tags": "pariatur, esse",
+        "Expenses": [
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Reprehenderit eiusmod sit amet excepteur aliqua elit veniam voluptate voluptate labore ullamco. Do enim deserunt ullamco deserunt sunt tempor. Adipisicing irure ut anim qui occaecat adipisicing. Exercitation Lorem ex occaecat est anim aliqua enim ut laboris mollit aliquip quis Lorem exercitation. Aliqua incididunt dolor fugiat do consectetur enim id voluptate enim sunt ullamco labore magna.\r\n",
+            "Amount": 1604.13,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-02-17",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Culpa cillum Lorem excepteur sint tempor voluptate. Aliquip ullamco voluptate dolore dolore quis ullamco ipsum sint. Occaecat esse tempor enim nostrud qui amet tempor officia tempor nostrud qui commodo excepteur reprehenderit. Laboris ad Lorem anim veniam cillum eu labore id ex sit non.\r\n",
+            "Amount": 2653.9,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-02",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Labore eu proident nostrud consectetur consectetur commodo anim exercitation amet qui ex consequat elit exercitation. Deserunt velit ex sint deserunt adipisicing aliqua deserunt reprehenderit magna voluptate. Elit eu irure magna eu irure do qui amet ad ipsum sit. Nisi aliqua est labore ea pariatur sit tempor dolor pariatur ipsum anim adipisicing fugiat.\r\n",
+            "Amount": 3909.65,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-01-12",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Amet laborum minim eiusmod officia pariatur. Consectetur deserunt fugiat est nulla eu qui elit commodo anim anim laborum. Aliquip dolor id pariatur non amet voluptate culpa id commodo velit voluptate. Nisi nostrud ipsum id veniam ullamco.\r\n",
+            "Amount": 2117.89,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-03-08",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Duis tempor cillum enim eu proident commodo fugiat veniam duis cupidatat. Et eiusmod sint qui non culpa reprehenderit occaecat sit ut. Exercitation proident labore aute sunt pariatur do aliqua.\r\n",
+            "Amount": 2106.64,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-04-04",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "in",
+        "Description": "Deserunt mollit aute dolor aute labore consectetur adipisicing sint quis elit ut laborum mollit.",
+        "Tags": "deserunt, excepteur",
+        "Expenses": [
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Et excepteur sit ea ex velit incididunt proident culpa eu et consectetur irure est nisi. Est sit minim irure voluptate enim sunt laboris adipisicing magna officia veniam ad. Culpa in dolore pariatur elit. In laborum ad nisi proident. Anim officia non voluptate velit non sint magna sunt Lorem minim amet. Commodo sit qui ea culpa aliquip.\r\n",
+            "Amount": 1194.8,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-01-11",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Enim ut nostrud anim dolore cillum adipisicing aliquip adipisicing nulla anim amet cupidatat. Commodo aute cillum qui minim non. Voluptate qui id elit proident anim anim veniam velit Lorem. Proident in deserunt occaecat do excepteur elit officia nostrud eu cupidatat magna exercitation.\r\n",
+            "Amount": 3423.88,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-02-09",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Nisi reprehenderit laborum dolor voluptate velit. Duis culpa laboris veniam culpa minim quis dolore labore. Occaecat tempor duis do quis est. Fugiat sint ex ullamco laboris duis adipisicing excepteur nisi ea elit quis ea. Nostrud et non consequat adipisicing non dolore aute. Labore minim minim anim id deserunt aliquip veniam consectetur reprehenderit commodo nostrud magna sint.\r\n",
+            "Amount": 2531.77,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-11",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Occaecat quis amet ea laboris sint laborum ipsum ad laboris sit eu laboris cupidatat. Sit dolore velit sunt proident. Enim dolor proident anim magna ipsum ut nulla eiusmod ex esse velit ut. Tempor nisi duis elit irure cillum adipisicing. Aute sit qui occaecat est exercitation magna tempor et laborum. Eiusmod reprehenderit eiusmod labore minim eiusmod voluptate do sint. Ut velit laborum exercitation irure minim aliqua elit consequat velit Lorem velit do cillum incididunt.\r\n",
+            "Amount": 2164.36,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-01",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Ipsum eiusmod culpa ullamco dolor magna nostrud sint ea tempor tempor commodo ea voluptate. Officia in elit fugiat aliquip proident irure aliqua in est laborum nostrud aute labore adipisicing. Est Lorem aute nulla nisi voluptate fugiat id commodo. Laboris excepteur minim cillum quis exercitation ut velit reprehenderit laboris cillum occaecat. Ad laboris proident tempor fugiat mollit nisi. Occaecat enim fugiat sint voluptate minim eiusmod anim laboris minim.\r\n",
+            "Amount": 1785.55,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-10",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      }
+    ]
+  },
+  {
+    "Username": "kirklandfuller@centuria.com",
+    "Password": "password",
+    "FirstName": "Mendez",
+    "LastName": "Pace",
+    "Role": "User",
+    "CreatedOn": "2020-05-23",
+    "UpdatedOn": "2020-05-23",
+    "Companies": [
+      {
+        "Name": "pariatur",
+        "Description": "Aliqua id voluptate ipsum cillum ullamco.",
+        "Tags": "eu, excepteur",
+        "Expenses": [
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Nulla ullamco ullamco deserunt do in esse reprehenderit. Eu cillum non aliquip magna aute reprehenderit aliqua. Commodo culpa et sunt aute mollit id consequat duis in adipisicing est exercitation cupidatat.\r\n",
+            "Amount": 2847.27,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-04-26",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Ea et non pariatur in labore Lorem. Nisi nisi Lorem ad cillum. Laboris commodo deserunt incididunt aute velit exercitation deserunt amet ipsum occaecat aliqua proident officia velit. Magna ipsum labore reprehenderit Lorem laborum est proident excepteur sit occaecat enim sint qui veniam. Cupidatat veniam laborum magna culpa nostrud id amet ut enim in ad laborum. Dolore officia non nulla commodo in voluptate quis officia qui quis tempor ex.\r\n",
+            "Amount": 1053.47,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-02-28",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Sunt sint Lorem duis ex fugiat ut cupidatat in incididunt incididunt et consectetur. Ullamco amet ullamco veniam duis ea deserunt adipisicing officia eu et ad ut. Consectetur officia Lorem sunt aliqua exercitation exercitation laborum esse sit excepteur consectetur. Culpa eu commodo fugiat occaecat ad quis duis est dolor consequat laborum.\r\n",
+            "Amount": 2639.93,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-06-25",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Dolor enim dolore qui quis minim nulla aliqua dolore aliquip elit. Dolore dolor elit commodo labore fugiat consectetur ullamco aliquip exercitation. Pariatur consectetur minim elit ad nulla.\r\n",
+            "Amount": 1805.03,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-01-19",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Nostrud cillum cillum sint sunt duis non duis. Aliquip quis velit eu reprehenderit do cupidatat. Enim esse commodo reprehenderit laboris sunt labore dolor ex Lorem ad.\r\n",
+            "Amount": 2531.38,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-04-25",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "ullamco",
+        "Description": "Cillum ut aliquip nisi officia esse consectetur commodo officia duis commodo.",
+        "Tags": "duis, non",
+        "Expenses": [
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Tempor Lorem duis excepteur consectetur sit labore laborum ipsum nulla laborum sunt magna minim nulla. Ex cupidatat voluptate velit cillum velit fugiat culpa eu culpa commodo officia mollit. Dolor veniam officia ea pariatur pariatur consequat magna tempor. Duis do officia exercitation Lorem. Do aliquip labore ea dolor in laboris anim Lorem ut ut et.\r\n",
+            "Amount": 1525.5,
+            "MethodOfPayment": "Cheque",
+            "PaidOn": "2020-05-02",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Pariatur ut id enim nisi sint cillum veniam. Nostrud amet excepteur dolor officia. Commodo anim consequat aute quis sunt ipsum reprehenderit pariatur aute officia culpa mollit exercitation nisi. Esse dolor in qui laborum et non ullamco sit nisi ipsum sunt cupidatat aute. Exercitation ad esse exercitation elit aliqua reprehenderit adipisicing ipsum nisi.\r\n",
+            "Amount": 3304.19,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-02-19",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Commodo labore excepteur minim pariatur pariatur ea eu ullamco qui cupidatat tempor. Consectetur ipsum quis duis dolore do eiusmod. Et non aute irure cillum laborum ex culpa duis esse duis laboris in. Mollit labore aute qui occaecat laboris dolore pariatur mollit veniam eu exercitation qui. Exercitation officia aliqua ad Lorem culpa. Et occaecat eiusmod consectetur voluptate labore proident excepteur tempor tempor anim velit est anim eiusmod. Esse elit duis minim labore nulla consectetur nostrud ea.\r\n",
+            "Amount": 3281.69,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-05-29",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "Laborum laborum eu culpa anim deserunt labore exercitation culpa. Adipisicing dolor occaecat ullamco cillum anim incididunt. Laborum et ullamco minim nulla labore culpa quis culpa exercitation enim consequat. Dolore sint reprehenderit veniam nulla irure. Ea duis commodo sit ipsum laborum pariatur culpa. Consectetur occaecat dolor tempor adipisicing officia sit elit.\r\n",
+            "Amount": 2195.58,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-01-13",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Commodo velit laborum veniam deserunt enim reprehenderit sit proident ipsum proident. Velit incididunt reprehenderit nostrud dolore labore tempor dolore reprehenderit mollit minim. Voluptate fugiat voluptate quis voluptate dolor cupidatat eiusmod cillum Lorem laboris et pariatur voluptate. Commodo irure cupidatat excepteur laborum ut reprehenderit est exercitation. Tempor sint quis non in quis. Irure incididunt qui eu ex aliquip mollit enim proident laboris consectetur minim. Eu irure do mollit tempor.\r\n",
+            "Amount": 2849.06,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-03-27",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      },
+      {
+        "Name": "mollit",
+        "Description": "Esse dolore cillum Lorem est aliquip exercitation nulla dolore.",
+        "Tags": "reprehenderit, deserunt",
+        "Expenses": [
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Occaecat labore occaecat dolor est sit ea. Veniam aliqua in deserunt nulla. Non tempor anim irure in duis ipsum adipisicing excepteur duis consequat proident. Ad mollit dolore incididunt dolore anim deserunt ad nulla ea ea culpa laboris amet. Sunt veniam qui id irure laboris adipisicing in velit pariatur ipsum aliquip laborum duis. Veniam esse consequat laboris sit labore dolor ipsum id adipisicing ut sunt dolore eiusmod.\r\n",
+            "Amount": 3801.31,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-04-24",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Tesla Inc.",
+            "Description": "In nostrud laboris enim minim sit ad anim cupidatat aliquip id nostrud. Labore anim in excepteur do proident proident officia non sunt. Esse qui consectetur sit laboris nostrud deserunt ullamco nostrud elit.\r\n",
+            "Amount": 2024.21,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-03-02",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Pariatur ea ad ex excepteur. Officia laborum Lorem reprehenderit in pariatur nulla aliquip sint fugiat. Ipsum aute culpa ullamco ullamco eiusmod. Mollit reprehenderit labore culpa aliqua eiusmod pariatur. Ullamco enim veniam proident veniam excepteur. Nostrud proident minim aute elit Lorem cupidatat occaecat proident in enim aliquip aliquip. Magna anim eiusmod ex eiusmod mollit eu cillum tempor exercitation veniam.\r\n",
+            "Amount": 3757.95,
+            "MethodOfPayment": "Bank Transfer.",
+            "PaidOn": "2020-04-18",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "Apex Inc.",
+            "Description": "Aliquip cillum dolore aliquip culpa amet dolore amet. Non incididunt anim velit est cillum. Aute voluptate consequat consectetur ipsum ipsum sint cillum deserunt. Non aliqua ullamco exercitation reprehenderit reprehenderit dolore dolore dolor ad do fugiat enim laborum proident.\r\n",
+            "Amount": 2421.51,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-01-27",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          },
+          {
+            "PaidTo": "GreenPoint, LLP",
+            "Description": "Pariatur aliqua sit culpa pariatur. Ea quis minim veniam consequat incididunt ea aliquip. Ullamco deserunt deserunt eu exercitation labore duis proident. Cupidatat tempor excepteur consequat fugiat nisi occaecat ex laboris excepteur quis commodo amet ad. Nisi nostrud labore dolor est officia ex occaecat non cupidatat adipisicing reprehenderit. Est enim tempor irure esse dolor cillum pariatur non consequat in pariatur.\r\n",
+            "Amount": 1560.92,
+            "MethodOfPayment": "Cash.",
+            "PaidOn": "2020-04-27",
+            "CreatedOn": "2020-05-23",
+            "UpdatedOn": "2020-05-23"
+          }
+        ],
+        "CreatedOn": "2020-05-23",
+        "UpdatedOn": "2020-05-23"
+      }
+    ]
+  },
+  {
+      "Username": "pansybolton@centuria.com",
+      "Password": "password",
+      "FirstName": "Courtney",
+      "LastName": "Montgomery",
+      "Role": "Admin",
+      "CreatedOn": "2020-05-23",
+      "UpdatedOn": "2020-05-23",
+      "Companies": [
+        {
+          "Name": "aliquip",
+          "Description": "Nostrud pariatur deserunt occaecat occaecat.",
+          "Tags": "sint, esse",
+          "Expenses": [
+            {
+              "PaidTo": "Apex Inc.",
+              "Description": "Consequat proident tempor reprehenderit sit do magna labore ad dolor. Officia reprehenderit ut adipisicing id in veniam labore ex voluptate reprehenderit nulla reprehenderit dolor ea. Dolore voluptate do cillum aute nostrud occaecat veniam.\r\n",
+              "Amount": 3509.95,
+              "MethodOfPayment": "Bank Transfer.",
+              "PaidOn": "2020-02-17",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Tesla Inc.",
+              "Description": "Ipsum do eiusmod ea et occaecat veniam excepteur pariatur et aliquip enim sit. Deserunt do dolore cillum esse cupidatat magna incididunt. Sint pariatur exercitation nulla pariatur amet duis aute. Tempor consectetur laborum veniam velit. Mollit reprehenderit aute quis dolore Lorem laborum est commodo nostrud laboris aliqua. Sunt aliqua non aute quis ullamco do labore quis aliquip Lorem non do est.\r\n",
+              "Amount": 3546.13,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-05-18",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Tesla Inc.",
+              "Description": "Adipisicing aliqua incididunt anim anim elit sit est proident cupidatat. Dolore exercitation magna ad quis consectetur cillum non laboris laborum sit. Sint sunt esse enim tempor reprehenderit laborum velit ad anim commodo cupidatat mollit quis.\r\n",
+              "Amount": 1887.56,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-02-16",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "GreenPoint, LLP",
+              "Description": "In dolore nostrud anim nisi tempor sit quis veniam dolor adipisicing enim reprehenderit nostrud. Esse anim consectetur labore nulla Lorem eu. Officia qui incididunt adipisicing pariatur sit. Ad ex aliquip reprehenderit id anim commodo enim. Ex deserunt exercitation commodo mollit magna enim est non ex tempor commodo nostrud reprehenderit. Nisi cupidatat ea nostrud amet sit sit minim.\r\n",
+              "Amount": 3697.18,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-01-23",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Apex Inc.",
+              "Description": "Sit eiusmod occaecat enim voluptate anim. Et sint enim veniam pariatur velit aliquip culpa dolor. Dolore ipsum excepteur excepteur occaecat nulla amet minim id enim sint ex consequat id adipisicing. Officia culpa dolore laborum Lorem Lorem ex. Sunt velit nostrud laborum culpa cillum in ea irure laboris id culpa mollit elit. Consequat esse et occaecat ea laborum aliqua Lorem eu nostrud nulla.\r\n",
+              "Amount": 2860.37,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-02-03",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            }
+          ],
+          "CreatedOn": "2020-05-23",
+          "UpdatedOn": "2020-05-23"
+        },
+        {
+          "Name": "nulla",
+          "Description": "Esse elit dolore cillum aute in ut cillum nisi quis ex duis occaecat fugiat nulla.",
+          "Tags": "labore, consectetur",
+          "Expenses": [
+            {
+              "PaidTo": "Tesla Inc.",
+              "Description": "Sunt id voluptate dolore do occaecat nulla duis irure nulla do magna sit aliqua et. Ex ipsum adipisicing consequat id est. Amet exercitation cupidatat veniam nulla voluptate aliquip id ut amet deserunt aliquip sit eu. Ut irure eu Lorem laborum nisi nulla anim. Aute sit nisi culpa non veniam ad nostrud anim voluptate sint dolore amet pariatur pariatur. Irure commodo consequat cillum voluptate proident ad enim.\r\n",
+              "Amount": 2332.3,
+              "MethodOfPayment": "Cheque",
+              "PaidOn": "2020-02-07",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Tesla Inc.",
+              "Description": "Dolore nostrud elit labore nisi veniam Lorem. Dolor irure officia amet quis eu tempor anim. Ullamco tempor minim mollit ea.\r\n",
+              "Amount": 2023.66,
+              "MethodOfPayment": "Bank Transfer.",
+              "PaidOn": "2020-01-15",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Tesla Inc.",
+              "Description": "Ullamco ad non anim laborum ex sunt aute deserunt nostrud irure amet mollit commodo tempor. Laborum sit non eu adipisicing nostrud nulla. Pariatur commodo do anim labore laboris adipisicing et aute adipisicing non.\r\n",
+              "Amount": 3010.67,
+              "MethodOfPayment": "Cheque",
+              "PaidOn": "2020-02-05",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Tesla Inc.",
+              "Description": "Adipisicing incididunt deserunt elit ea commodo voluptate officia culpa id excepteur aliquip. Sint cupidatat nulla exercitation officia laboris. Do excepteur nostrud occaecat ex enim aliqua. Nulla id adipisicing minim sunt Lorem mollit dolore ipsum velit dolore. Magna labore labore aute excepteur eiusmod reprehenderit deserunt non occaecat irure nulla eu fugiat proident.\r\n",
+              "Amount": 2880.03,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-01-04",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Tesla Inc.",
+              "Description": "Laboris dolore labore nisi cillum. Cillum veniam nisi in ex tempor nostrud. Laboris aute quis do excepteur in quis quis et dolore esse voluptate ut. Eu pariatur labore tempor esse commodo esse nostrud aliqua nostrud fugiat adipisicing eu. Velit pariatur adipisicing ea officia. Labore excepteur nisi commodo deserunt fugiat ea deserunt in minim consectetur eiusmod magna.\r\n",
+              "Amount": 1901.48,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-03-30",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            }
+          ],
+          "CreatedOn": "2020-05-23",
+          "UpdatedOn": "2020-05-23"
+        },
+        {
+          "Name": "est",
+          "Description": "Ad id nisi duis aliqua esse dolor cillum officia in elit laborum adipisicing nisi eu.",
+          "Tags": "proident, exercitation",
+          "Expenses": [
+            {
+              "PaidTo": "Apex Inc.",
+              "Description": "Ad exercitation minim duis do reprehenderit laborum ullamco duis quis qui tempor ullamco irure et. Aute ex ipsum dolore et in cillum esse. Esse ex commodo laboris ullamco veniam. Ea fugiat irure cupidatat consectetur officia anim proident minim dolore enim pariatur Lorem incididunt. Ut deserunt Lorem aliquip culpa adipisicing voluptate quis ex sunt nisi sunt.\r\n",
+              "Amount": 2761.97,
+              "MethodOfPayment": "Cheque",
+              "PaidOn": "2020-01-13",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "Apex Inc.",
+              "Description": "Consequat labore ipsum elit enim do deserunt reprehenderit eiusmod ea nostrud ipsum adipisicing ut. Laborum pariatur sit do aute voluptate amet id. Duis pariatur et eu amet nulla et do enim velit. Incididunt consequat et sit et minim cupidatat in duis proident ullamco irure eiusmod aliqua quis.\r\n",
+              "Amount": 1169.86,
+              "MethodOfPayment": "Bank Transfer.",
+              "PaidOn": "2020-01-02",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "GreenPoint, LLP",
+              "Description": "Minim consectetur irure mollit fugiat labore Lorem et excepteur do do. Commodo laborum occaecat eu enim. Aliquip proident Lorem incididunt labore ipsum qui fugiat ut consectetur adipisicing exercitation id. Magna pariatur ullamco deserunt eu proident dolore laboris proident id fugiat. Ipsum cillum aute ipsum ad velit voluptate est reprehenderit quis id labore Lorem consequat.\r\n",
+              "Amount": 1382.22,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-03-13",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "GreenPoint, LLP",
+              "Description": "Voluptate non nulla ea nisi. Dolore occaecat occaecat minim ea deserunt dolor consequat ut magna ut. Deserunt voluptate ex deserunt fugiat exercitation amet anim. Enim culpa et sit adipisicing reprehenderit velit consectetur. Elit excepteur laboris veniam anim aliqua ut Lorem sint Lorem Lorem.\r\n",
+              "Amount": 3487.18,
+              "MethodOfPayment": "Cash.",
+              "PaidOn": "2020-01-17",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            },
+            {
+              "PaidTo": "GreenPoint, LLP",
+              "Description": "Lorem voluptate commodo sunt nostrud aliqua pariatur labore dolor consectetur proident. Nostrud aute proident cillum dolore nulla pariatur aliquip excepteur. Sit aliqua elit culpa aliqua esse consequat elit ex nulla sint ex incididunt. Enim officia laborum incididunt aliquip culpa nostrud duis aliqua do laboris eiusmod.\r\n",
+              "Amount": 1440.26,
+              "MethodOfPayment": "Bank Transfer.",
+              "PaidOn": "2020-01-15",
+              "CreatedOn": "2020-05-23",
+              "UpdatedOn": "2020-05-23"
+            }
+          ],
+          "CreatedOn": "2020-05-23",
+          "UpdatedOn": "2020-05-23"
+        }
+      ]
+    }
+]
