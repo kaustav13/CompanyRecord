@@ -25,6 +25,7 @@ import { CompanyResolver } from './_resolvers/company-dashboard.resolver';
 import { AuthGuard } from './_guards/auth.guard';
 import { AlertifyService } from './_services/alertify.service';
 import { CompanyService } from './_services/company.service';
+import { AddcompanyComponent } from './dashboard/addcompany/addcompany.component';
 
 export function getToken(){
    return localStorage.getItem('token');
@@ -40,7 +41,8 @@ export function getToken(){
       DashboardComponent,
       CompanycardComponent,
       CompanydetailsComponent,
-      ExpenseComponent
+      ExpenseComponent,
+      AddcompanyComponent
    ],
    imports: [
       BrowserModule,

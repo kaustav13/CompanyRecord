@@ -11,6 +11,7 @@ import { ActivatedRoute } from '@angular/router';
 })
 export class DashboardComponent implements OnInit {
   companies: Company[];
+  addMode = false;
 
   constructor(private companyService: CompanyService, private alertify: AlertifyService, private route: ActivatedRoute) { }
 
@@ -18,5 +19,13 @@ export class DashboardComponent implements OnInit {
     this.route.data.subscribe(data => {
       this.companies = data['companies'];
     });
+  }
+
+  addToggle(){
+    this.addMode = true;
+  }
+
+  cancelAddMode(addMode: boolean){
+    this.addMode = addMode;
   }
 }

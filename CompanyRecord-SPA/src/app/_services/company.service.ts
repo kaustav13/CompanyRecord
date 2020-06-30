@@ -23,4 +23,10 @@ export class CompanyService {
     this.decodeToken = this.jwtHelper.decodeToken(localStorage.getItem('token'));
     return this.http.get<Company>(this.baseUrl + 'company/' + id + '/' + this.decodeToken?.unique_name);
   }
+
+  add(model: any){
+    this.decodeToken = this.jwtHelper.decodeToken(localStorage.getItem('token'));
+    model.username = this.decodeToken?.unique_name;
+    return this.http.post(this.baseUrl + 'company/add', model);
+  }
 }

@@ -1,8 +1,10 @@
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using AutoMapper;
 using CompanyRecord.API.Data;
 using CompanyRecord.API.DTOs;
+using CompanyRecord.API.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -41,6 +43,26 @@ namespace CompanyRecord.API.Controllers
             var companyToReturn = _mapper.Map<CompanyForDetailedDTO>(company);
 
             return Ok(companyToReturn);
+        }
+
+        [HttpPost("add")]
+        public async Task<IActionResult> Add (AddCompanyDTO company)
+        {
+            var user = await _repo.GetUser(company.UserName);
+
+            var companyToAdd = new Company();
+            companyToAdd.Name = company.Name;
+            companyToAdd.Description = company.Description;
+            companyToAdd.Tags = company.Tags;
+            companyToAdd.CreatedOn = DateTime.Now;
+            companyToAdd.UpdatedOn = DateTime.Now;
+            companyToAdd.UserId = user.Id;
+
+            _repo.Add<Company>(companyToAdd);
+
+            await _repo.SaveAll();
+
+            return Ok(company);
         }
     }
 }
