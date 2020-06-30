@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { Company } from '../_models/company';
+import { CompanyService } from '../_services/company.service';
+import { AlertifyService } from '../_services/alertify.service';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-dashboard',
@@ -6,10 +10,13 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./dashboard.component.css']
 })
 export class DashboardComponent implements OnInit {
+  companies: Company[];
 
-  constructor() { }
+  constructor(private companyService: CompanyService, private alertify: AlertifyService, private route: ActivatedRoute) { }
 
   ngOnInit() {
+    this.route.data.subscribe(data => {
+      this.companies = data['companies'];
+    });
   }
-
 }

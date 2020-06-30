@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-sm-2">
+        {{expense?.paidTo}}
+    </div>
+    <div class="col-sm-2">
+        {{expense?.methodOfPayment}}
+    </div>
+    <div class="col-sm-2">
+        {{expense?.amount}}
+    </div>
+    <div class="col-sm-2 text-inline">
+        {{expense?.description}}
+    </div>
+    <div class="col-sm-2 text-right">
+        {{expense?.paidOn | date: 'mediumDate'}}
+    </div>
+</div>
